@@ -1,0 +1,17 @@
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\PerSecurity_Dotnet.exe.config
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\PerSecurity_Dotnet.exe
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\PerSecurity_Dotnet.pdb
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\CommandLine.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Console.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.IO.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Reflection.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Runtime.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Runtime.Extensions.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Runtime.Loader.dll
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\CommandLine.xml
+C:\DLWSDotnetSample\DLWSDotnetSample\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\DLWSDotnetSample\DLWSDotnetSample\obj\Debug\PerSecurity_Dotnet.csproj.CoreCompileInputs.cache
+C:\DLWSDotnetSample\DLWSDotnetSample\obj\Debug\PerSecurity_Dotnet.csproj.CopyComplete
+C:\DLWSDotnetSample\DLWSDotnetSample\obj\Debug\PerSecurity_Dotnet.exe
+C:\DLWSDotnetSample\DLWSDotnetSample\obj\Debug\PerSecurity_Dotnet.pdb
